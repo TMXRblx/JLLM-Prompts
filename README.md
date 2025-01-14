@@ -2,7 +2,7 @@
 Custom LLM Prompts
 
 ### It's NSFW git for JanitorAI.
-(I WON'T take responsibility of mentality and damages caused to YOU or your CHILDREN)
+(I WON'T take responsibility of mentality and damages)
 
 ---
 
