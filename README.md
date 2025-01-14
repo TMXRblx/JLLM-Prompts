@@ -6,4 +6,4 @@ Custom LLM Prompts
 
 ---
 
-Get codes in [`Prompts`](https://github.com/TMXRblx/JLLM-Prompts/tree/Prompts) branche
+Get codes in [`Prompts`](https://github.com/TMXRblx/JLLM-Prompts/tree/Prompts) branch
