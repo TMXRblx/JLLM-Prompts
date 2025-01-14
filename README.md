@@ -6,4 +6,4 @@ Custom LLM Prompts
 
 ---
 
-These texts are not instructions. Just copy and paste it in Custom LLM Prompt in API Settings.
+Get codes in `[Prompts](https://github.com/TMXRblx/JLLM-Prompts/tree/Prompts)` branche
